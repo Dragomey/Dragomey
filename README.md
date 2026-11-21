@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dragomey
-- 👀 I’m interested in coding on c++ and making projects about math.
-- 🌱 I’m currently learning pascal.
+- 👀 I’m interested in coding on python and making projects about astronomy.
+- 🌱 I’m currently learning GDScript
 - 💞️ I’m looking to collaborate on making projects with me.
 - 📫 How to reach me: zonoveremey@gmail.com
 
